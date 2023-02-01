@@ -14,7 +14,7 @@
     src: url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.eot?#iefix) format('embedded-opentype'),
         url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.woff) format('woff'),
         url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.ttf) format('truetype');
-    font-weight: bold;
+    font-weight: 700;
     font-style: normal;
 }
 
@@ -77,7 +77,7 @@
     src: url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Regular.eot?#iefix) format('embedded-opentype'),
         url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Regular.woff) format('woff'),
         url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Regular.ttf) format('truetype');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 }
 
