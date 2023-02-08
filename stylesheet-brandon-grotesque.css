@@ -1,14 +1,5 @@
 @font-face {
     font-family: 'Brandon Grotesque';
-    src: url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.eot?#iefix) format('embedded-opentype'),
-        url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.woff) format('woff'),
-        url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.ttf) format('truetype');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Brandon Grotesque';
     src: url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Regular.eot?#iefix) format('embedded-opentype'),
         url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Regular.woff) format('woff'),
         url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Regular.ttf) format('truetype');
@@ -18,11 +9,20 @@
 
 @font-face {
     font-family: 'Brandon Grotesque';
-        url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-RegularItalic.eot?#iefix) format('embedded-opentype'),
+    src: url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-RegularItalic.eot?#iefix) format('embedded-opentype'),
         url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-RegularItalic.woff) format('woff'),
         url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-RegularItalic.ttf) format('truetype');
     font-weight: 400;
     font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.eot?#iefix) format('embedded-opentype'),
+        url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.woff) format('woff'),
+        url(https://kkrankall.github.io/pauseandpurpose/BrandonGrotesque-Bold.ttf) format('truetype');
+    font-weight: 700;
+    font-style: normal;
 }
 
 @font-face {
